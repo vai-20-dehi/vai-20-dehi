@@ -1,22 +1,22 @@
 [![MasterHead](https://raw.githubusercontent.com/majdimokhtar/github-images/main/newbannerjs.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Vaidehi Pokhriyal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
 
-- 🔭 I’m currently working on *a project named as Luciad*
+- 🔭 I’m currently working on [Luciad](https://en.wikipedia.org/wiki/Luciad)
 
-- 🌱 I’m currently learning *React,Javascript,Python*
+- 🌱 I’m currently learning *React, Javascript, Python*
 
-- 👯 I’m looking to collaborate on *project related to react and front end appilcations*
+- 👯 I’m looking to collaborate on *projects related to react and front end appilcations*
 
-- 👨‍💻 All of my projects are available at [https://github.com/vai-20-dehi](https://github.com/vai-20-dehi)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/vai-20-dehi)
 
-- 💬 Ask me about *Html,CSS,Javascript and react i would be happy to help.*
+- 💬 Ask me anything about *HTML,CSS,Javascript and React, I would be happy to help.*
 
-- 📫 How to reach me *pokhriyalvaidehi@gmail.com*
+- 📫 How to reach me [EMail](pokhriyalvaidehi@gmail.com)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12f6Q8pJhBncPZx1nB_QoT5yLSa_b3LmR/view?usp=sharing](https://drive.google.com/file/d/12f6Q8pJhBncPZx1nB_QoT5yLSa_b3LmR/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12f6Q8pJhBncPZx1nB_QoT5yLSa_b3LmR/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
